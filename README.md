@@ -16,4 +16,4 @@ Skills: React JS | JavaScript | ES6| Bootstrap | TailwindCss | HTML5 | CSS3 | No
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?mohammadyusuf123=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
