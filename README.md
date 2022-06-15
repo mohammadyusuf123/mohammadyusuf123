@@ -10,7 +10,7 @@ When I am not working I usually spend my time playing and watching cricket.
 
   ## 👨🏻‍💻 Skills & Experiance:
   ###### ✅ React JS 
-  ###### ✅ JavaScript 
+###### ✅ JavaScript 
   ###### ✅ ES6 
   ###### ✅ Bootstrap 
   ###### ✅ TailwindCss 
