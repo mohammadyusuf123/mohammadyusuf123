@@ -16,4 +16,9 @@ Skills: React JS | JavaScript | ES6| Bootstrap | TailwindCss | HTML5 | CSS3 | No
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/mohammadyusuf123=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?mohammadyusuf123=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?mohammadyusuf123=anuraghazra&repo=convoychat" />
+</a>
