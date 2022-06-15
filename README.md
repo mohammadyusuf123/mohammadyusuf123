@@ -16,4 +16,4 @@ Skills: React JS | JavaScript | ES6| Bootstrap | TailwindCss | HTML5 | CSS3 | No
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?mohammadyusuf123=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?mohammadyusuf123a&repo=github-readme-stats)]
