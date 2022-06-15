@@ -1,5 +1,6 @@
 ## Hi, I'm 👋, Mohammad Yusuf
 ##### 👑 Front End Developer
+##### 🖋 Love to write code
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
 
@@ -8,8 +9,7 @@ I want to use all of my experience to solve human's real life problems to make a
 When I am not working I usually spend my time playing and watching cricket.
 
   ## 👨🏻‍💻 Skills & Experiance:
-
-#### ✅React JS 
+####### ✅React JS 
 
 #### ✅JavaScript 
  
