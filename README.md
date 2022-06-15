@@ -19,5 +19,5 @@ When I am not working I usually spend my time playing and watching cricket.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+<img src="{https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white}" /> <img src="{}" /> <img src="{}" /> <img src="{}" />
 
