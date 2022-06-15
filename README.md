@@ -1,5 +1,5 @@
 ## Hi, I'm 👋, Mohammad Yusuf
-### 👑 Front End Developer
+##### 👑 Front End Developer
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
 
@@ -7,25 +7,25 @@ Hi, I am Yusuf, currently working as a Front End Developer.I have 1-year of expe
 I want to use all of my experience to solve human's real life problems to make a better world. 
 When I am not working I usually spend my time playing and watching cricket.
 
-  #### 👨🏻‍💻 Skills & Experiance:
+  ## 👨🏻‍💻 Skills & Experiance:
 
-✅React JS 
+#### ✅React JS 
 
-✅JavaScript 
+#### ✅JavaScript 
+ 
+#### ✅ES6 
 
-✅ES6 
+#### ✅Bootstrap 
+ 
+#### ✅TailwindCss 
 
-✅Bootstrap 
+#### ✅HTML5 
 
-✅TailwindCss 
-
-✅HTML5 
-
-✅CSS3 
-
-✅Node JS 
-
-✅MongoDB
+#### ✅CSS3 
+ 
+#### ✅Node JS 
+ 
+#### ✅MongoDB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
