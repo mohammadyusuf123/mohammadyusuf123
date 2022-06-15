@@ -10,22 +10,14 @@ When I am not working I usually spend my time playing and watching cricket.
 
   ## 👨🏻‍💻 Skills & Experiance:
   ###### ✅ React JS 
-
-#### ✅JavaScript 
- 
-#### ✅ES6 
-
-#### ✅Bootstrap 
- 
-#### ✅TailwindCss 
-
-#### ✅HTML5 
-
-#### ✅CSS3 
- 
-#### ✅Node JS 
- 
-#### ✅MongoDB
+  ###### ✅ JavaScript 
+  ###### ✅ ES6 
+  ###### ✅ Bootstrap 
+  ###### ✅ TailwindCss 
+  ###### ✅ HTML5 
+  ###### ✅ CSS3 
+  ###### ✅ Node JS 
+  ###### ✅ MongoDB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
