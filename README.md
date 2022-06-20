@@ -14,10 +14,10 @@ When I am not working I usually spend my time playing and watching cricket.
 }) ![image]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}) ![image]({BadgeURLHere}) ![image]({}) 
 
     📈 Current Stats
-    https://github-readme-stats.vercel.app/api?username={mohammadyusuf123}
+    <img src="{https://github-readme-stats.vercel.app/api?username={mohammadyusuf123}}" /> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) https://github-readme-streak-stats.herokuapp.com/?user={mohammadyusuf123}
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="{https://github-readme-streak-stats.herokuapp.com/?user={mohammadyusuf123}
+}" /> 
   ### ✈️ Contact with me!
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/mohammadyusuf123)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/nohammadyusuf123/)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/nohammadyusuf123)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/zayn_yusuf_/)                      [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19068029/mohammad-yusuf)  
 
