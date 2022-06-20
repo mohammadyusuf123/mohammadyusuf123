@@ -1,5 +1,5 @@
 ## Hi, I'm  Mohammad Yusuf 👋
-##### 👑 Front End Developer
+##### 👑 Full-Stack Developer (MERN)
 ##### 🖋 Love to write code
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
