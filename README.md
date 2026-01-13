@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohammadyusuf123&label=PROFILE+VIEWS)
 
-I’m currently working as a Full-Stack Developer (MERN).I have 1-year of experience in the web development sector. I am self-motivated, energetic, and love to work with people in order to build things that matter.
+I’m currently working as a Full-Stack Developer (MERN). I have 3+ years of experience in the web development sector. I am self-motivated, energetic, and love to work with people in order to build things that matter.
 I want to use all of my experience to solve human's real life problems to make a better world. 
-When I am not working I usually spend my time playing and watching cricket.
+When I am not working, I usually spend my time playing and watching cricket.
 
   ## 👨🏻‍💻 Skills & Experiance:
   
